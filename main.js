@@ -5,7 +5,7 @@ var swiper = new Swiper(".mySwiper", {
     grabCursor: true, // Cambia el cursor para indicar que se puede arrastrar
     centeredSlides: true, // La tarjeta activa siempre está en el centro
     slidesPerView: "auto", // El ancho de las tarjetas se ajusta automáticamente
-    initialSlide: 1, // Empieza en la segunda tarjeta
+    initialSlide: 3, // Empieza en la segunda tarjeta
     loop: true, // El carrusel se repite infinitamente
     loopedSlides: 3, // Cuántas slides adicionales para el loop
 
